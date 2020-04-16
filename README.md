@@ -144,7 +144,7 @@ results = MatchReduce.process(aggregators, records)
 ]
 ````
 
-We could also choose to aggregator multiple teams together by providing multiple patterns:
+We could also choose to aggregate multiple teams together by providing multiple patterns:
 
 ````ruby
 require 'match_reduce'
